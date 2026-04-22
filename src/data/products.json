@@ -1,0 +1,25 @@
+[
+  {"id":"top-1","name":"Classic White Tee","price":24,"category":"tops","tags":["casual","summer","minimal"],"image":"/images/top.svg","description":"Soft cotton tee for everyday wear.","sizes":["S","M","L","XL"]},
+  {"id":"top-2","name":"Linen Button Shirt","price":48,"category":"tops","tags":["summer","smart-casual","vacation"],"image":"/images/top.svg","description":"Breathable linen shirt with relaxed fit.","sizes":["S","M","L"]},
+  {"id":"top-3","name":"Ribbed Knit Polo","price":52,"category":"tops","tags":["smart-casual","spring","date-night"],"image":"/images/top.svg","description":"Textured polo for polished casual looks.","sizes":["S","M","L","XL"]},
+  {"id":"top-4","name":"Oversized Hoodie","price":60,"category":"tops","tags":["casual","streetwear","winter"],"image":"/images/top.svg","description":"Cozy brushed-fleece hoodie.","sizes":["M","L","XL"]},
+  {"id":"top-5","name":"Tailored Blazer","price":119,"category":"tops","tags":["formal","office","layering"],"image":"/images/top.svg","description":"Slim blazer for elevated styling.","sizes":["S","M","L"]},
+
+  {"id":"bottom-1","name":"Slim Chino Pants","price":58,"category":"bottoms","tags":["smart-casual","office","spring"],"image":"/images/bottom.svg","description":"Stretch chinos with tapered leg.","sizes":["30","32","34","36"]},
+  {"id":"bottom-2","name":"Relaxed Denim","price":65,"category":"bottoms","tags":["casual","streetwear","all-season"],"image":"/images/bottom.svg","description":"Washed denim with relaxed silhouette.","sizes":["30","32","34","36"]},
+  {"id":"bottom-3","name":"Pleated Trousers","price":72,"category":"bottoms","tags":["formal","office","minimal"],"image":"/images/bottom.svg","description":"High-rise trousers with front pleats.","sizes":["30","32","34"]},
+  {"id":"bottom-4","name":"Linen Shorts","price":42,"category":"bottoms","tags":["summer","vacation","casual"],"image":"/images/bottom.svg","description":"Lightweight shorts for hot weather.","sizes":["30","32","34","36"]},
+  {"id":"bottom-5","name":"Performance Joggers","price":54,"category":"bottoms","tags":["athleisure","casual","travel"],"image":"/images/bottom.svg","description":"Four-way stretch joggers for movement.","sizes":["S","M","L","XL"]},
+
+  {"id":"shoe-1","name":"Leather Derby Shoes","price":110,"category":"shoes","tags":["formal","office","classic"],"image":"/images/shoe.svg","description":"Polished derbies for formal occasions.","sizes":["8","9","10","11"]},
+  {"id":"shoe-2","name":"Chunky Sneakers","price":88,"category":"shoes","tags":["casual","streetwear","all-season"],"image":"/images/shoe.svg","description":"Statement sneakers with cushioned sole.","sizes":["8","9","10","11"]},
+  {"id":"shoe-3","name":"Canvas Slip-Ons","price":44,"category":"shoes","tags":["summer","vacation","casual"],"image":"/images/shoe.svg","description":"Easy slip-ons for laid-back outfits.","sizes":["8","9","10","11"]},
+  {"id":"shoe-4","name":"Minimal White Trainers","price":76,"category":"shoes","tags":["minimal","smart-casual","spring"],"image":"/images/shoe.svg","description":"Clean low-top trainers.","sizes":["8","9","10","11"]},
+  {"id":"shoe-5","name":"Trail Boots","price":130,"category":"shoes","tags":["winter","outdoor","travel"],"image":"/images/shoe.svg","description":"Durable boots with grippy tread.","sizes":["8","9","10","11"]},
+
+  {"id":"acc-1","name":"Classic Leather Belt","price":32,"category":"accessories","tags":["formal","office","classic"],"image":"/images/accessory.svg","description":"Full-grain leather belt.","sizes":["M","L","XL"]},
+  {"id":"acc-2","name":"Canvas Tote Bag","price":28,"category":"accessories","tags":["casual","summer","minimal"],"image":"/images/accessory.svg","description":"Reusable tote with inside pocket.","sizes":["One Size"]},
+  {"id":"acc-3","name":"Wool Beanie","price":20,"category":"accessories","tags":["winter","casual","streetwear"],"image":"/images/accessory.svg","description":"Ribbed beanie for cold days.","sizes":["One Size"]},
+  {"id":"acc-4","name":"Silk Pocket Square","price":18,"category":"accessories","tags":["formal","date-night","classic"],"image":"/images/accessory.svg","description":"Adds color to tailored looks.","sizes":["One Size"]},
+  {"id":"acc-5","name":"Sport Watch","price":95,"category":"accessories","tags":["athleisure","travel","all-season"],"image":"/images/accessory.svg","description":"Water-resistant daily watch.","sizes":["One Size"]}
+]
