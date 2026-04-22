@@ -1,0 +1,7 @@
+[
+  {"id":"outfit-1","name":"City Casual","description":"Effortless weekend look for errands and coffee runs.","image":"/images/outfit.svg","tags":["casual","streetwear","all-season"],"productIds":["top-1","bottom-2","shoe-2","acc-2"]},
+  {"id":"outfit-2","name":"Smart Office","description":"Clean workwear set for weekday meetings.","image":"/images/outfit.svg","tags":["office","formal","classic"],"productIds":["top-5","bottom-3","shoe-1","acc-1"]},
+  {"id":"outfit-3","name":"Summer Getaway","description":"Breathable vacation-ready combo.","image":"/images/outfit.svg","tags":["summer","vacation","casual"],"productIds":["top-2","bottom-4","shoe-3","acc-2"]},
+  {"id":"outfit-4","name":"Date Night","description":"Refined evening style with elevated textures.","image":"/images/outfit.svg","tags":["date-night","smart-casual","spring"],"productIds":["top-3","bottom-1","shoe-4","acc-4"]},
+  {"id":"outfit-5","name":"Cold Weather Utility","description":"Warm layered setup for winter travel days.","image":"/images/outfit.svg","tags":["winter","travel","outdoor"],"productIds":["top-4","bottom-5","shoe-5","acc-3"]}
+]
